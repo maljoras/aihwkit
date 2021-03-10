@@ -45,7 +45,8 @@ The format is based on [Keep a Changelog], and this project adheres to
   particular device and optimizer choice. (\#144)
 * Utility for visualization the pulse response properties of a given
   device configuration. (\#146)
-
+* Optional power-law drift during analog training (\#158)
+ 
 #### Fixed
 
 * Fixed small issues that resulted in warnings for windows compilation. (\#99)
